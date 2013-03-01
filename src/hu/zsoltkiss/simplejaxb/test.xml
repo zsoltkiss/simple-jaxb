@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<dreamTeam>
+    <player>
+        <name>Kemens Szabolcs</name>
+        <team officialName="Budapesti Honved Footbal Club Kft.">
+            <name>Kispest Honved</name>
+            <yearOfFoundation>1913</yearOfFoundation>
+        </team>
+    </player>
+    
+    <player>
+        <name>Barath Botond</name>
+        <team officialName="Budapesti Honved Footbal Club Kft.">
+            <name>Kispest Honved</name>
+            <yearOfFoundation>1913</yearOfFoundation>
+        </team>
+    </player>
+    
+    <player>
+        <name>Csabi Mihaly</name>
+        <team officialName="Sampdoria">
+            <name>Sampdoria</name>
+            <yearOfFoundation>???</yearOfFoundation>
+        </team>
+    </player>
+    
+    <player>
+        <name>Nemeth Norbert</name>
+        <team officialName="Eger FC Kft.">
+            <name>Eger</name>
+            <yearOfFoundation>???</yearOfFoundation>
+        </team>
+    </player>
+    
+    <player>
+        <name>Ivancsiscs Gellert</name>
+        <team officialName="Budapesti Honved Footbal Club Kft.">
+            <name>Kispest Honved</name>
+            <yearOfFoundation>1913</yearOfFoundation>
+        </team>
+    </player>
+    <player>
+        <name>Davide Lanzafame</name>
+        <team officialName="Budapesti Honved Footbal Club Kft.">
+            <name>Kispest Honved</name>
+            <yearOfFoundation>1913</yearOfFoundation>
+        </team>
+    </player>
+    
+    
+</dreamTeam>

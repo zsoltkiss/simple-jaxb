@@ -1,4 +1,4 @@
 simpla-jaxb
 ===========
 
-Simpla JAXB example
+Simple JAXB example.

@@ -4,3 +4,12 @@
 *.jar
 *.war
 *.ear
+
+#Eclipse IDE related files
+.classpath
+.project
+.settings
+
+#Directory for project build
+bin
+
