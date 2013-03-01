@@ -1,4 +1,4 @@
-simpla-jaxb
+simple-jaxb
 ===========
 
 Simple JAXB example.
